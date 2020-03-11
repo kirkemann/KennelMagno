@@ -16,7 +16,7 @@ body {
     margin-top: 50px;
     font-family: 'proxima-nova', 'Raleway', Arial, Helvetica, sans-serif;
     font-size: 16px;
-    background: url('../KennelMagno/assets/img/tile.jpg') top left repeat;
+    background: url('../img/tile.jpg') top left repeat;
 }
 
 /* === GLOBAL === */
@@ -94,7 +94,7 @@ img {
 }
 
 .modal-content {
-    background: url('../KennelMagno/assets/img/tile.jpg') top left repeat;
+    background: url('../img/tile.jpg') top left repeat;
 }
 
 .badge.social {
@@ -139,7 +139,7 @@ blockquote::before {
 /*  === HERO === */
 
 #hero {
-    background: url(../KennelMagno/assets/img/Green_grass.jpg) 50% 0 no-repeat fixed;
+    background: url('../img/Green_grass.jpg') 50% 0 no-repeat fixed;
     min-height: 500px;
     padding: 40px 0;
     color: white;
@@ -240,11 +240,11 @@ section h3 {
 }
 
 .feature-image-default {
-    background: url('../KennelMagno/assets/img/stuff-feature.jpg') no-repeat;
+    background: url('../img/stuff-feature.jpg') no-repeat;
     background-size: cover;
 }
 .feature-image-default-alt {
-    background: url('../KennelMagno/assets/img/hipster-stuff.jpg') no-repeat;
+    background: url('../img/hipster-stuff.jpg') no-repeat;
     background-size: cover;
 }
 
@@ -287,14 +287,14 @@ section h3 {
 }
 
 #featurette {
-    background: url('../KennelMagno/assets/img/gre.png') 50% 100% no-repeat fixed;
+    background: url('../img/gre.png') 50% 100% no-repeat fixed;
     background-size: cover;
     text-align: center;
     color: #000;
 }
 
 #instructor {
-    background: white url('../KennelMagno/assets/img/kirkemann-logo.png') 90% 200px no-repeat;
+    background: white url('../img/kirkemann-logo.png') 90% 200px no-repeat;
     color: black;
 }
 
@@ -347,7 +347,7 @@ section h3 {
 
 #signup {
     text-align: center;
-    background: url('../KennelMagno/assets/img/hipster-stuff.jpg') center center repeat fixed;
+    background: url('../img/hipster-stuff.jpg') center center repeat fixed;
     background-size: cover;
     color: white;
     padding: 140px 0;
@@ -561,7 +561,7 @@ i.ci {
     display: inline-block;
     height: 40px;
     width: 40px;
-    background: url('../KennelMagno/assets/img/icon-sprite.png') no-repeat;
+    background: url('../img/icon-sprite.png') no-repeat;
 }
 
 .ci.ci-computer { background-position: 0 0; }
@@ -637,7 +637,7 @@ button[type="submit"]:hover {
     }
 
     #instructor {
-        background: white url('../KennelMagno/assets/img/kirkemann-logo.png') 30% 200px no-repeat;
+        background: white url('../img/kirkemann-logo.png') 30% 200px no-repeat;
     }
 }
 
